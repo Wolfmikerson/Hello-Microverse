@@ -1,0 +1,5 @@
+# .gitignore
+node_modules/
+
+# Lets ignore the test.md file
+test.md
